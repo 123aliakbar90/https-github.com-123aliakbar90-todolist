@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Task Orchestrator",
+  "description": "A sophisticated AI-powered to-do list that uses Gemini to break down complex tasks, suggest related items, and prioritize your day.",
+  "requestFramePermissions": []
+}
